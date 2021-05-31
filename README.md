@@ -1,4 +1,6 @@
 # v2ray-free
+最新更新时间：2021年5月31日 19:09
+免费翻墙，每天更新
 
 # 节点列表
 -  vmess://ewoidiI6ICIyIiwKInBzIjogIjE3Mi4yNDcuNzYuMTcxIiwKImFkZCI6ICIxNzIuMjQ3Ljc2LjE3MSIsCiJwb3J0IjogIjEwMDAxIiwKImlkIjogImU4NThkM2I0LTdkNTItNDNkOC04MjUxLTg4MTUyODYxZDkxMCIsCiJhaWQiOiAiMCIsCiJuZXQiOiAidGNwIiwKInR5cGUiOiAibm9uZSIsCiJob3N0IjogIiIsCiJwYXRoIjogIiIsCiJ0bHMiOiAiIgp9
