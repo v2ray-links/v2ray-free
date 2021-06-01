@@ -17,3 +17,6 @@ https://raw.fastgit.org/v2ray-links/v2ray-free/master/v2ray
 - vmess://eyJ2IjogIjIiLCAicHMiOiAiaHR0cHM6Ly9naXRodWIuY29tL3YycmF5LWxpbmtzL3YycmF5LWZyZWUg5q+P5aSp5pu05paw6auY6YCf6IqC54K5IiwgImFkZCI6ICIxMTYuMTkyLjE2NC4yMTciLCAicG9ydCI6ICI1MjAwMiIsICJpZCI6ICIzNWNmYmNhMS0zODVlLTQwNWYtOWYxZi04YjU0MDJlZjc5OTkiLCAiYWlkIjogIjEiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJlbi50Z2NoYW5uZWxzLm9yZy9jaGFubmVsL3ZwbnBvb2wiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==
 
 [![Page Views Count](https://badges.toozhao.com/badges/01F72MNX2FTQMF43CCJN7B2CWQ/green.svg)](https://badges.toozhao.com/stats/01F72MNX2FTQMF43CCJN7B2CWQ "Get your own page views count badge on badges.toozhao.com")
+
+## 教程
+科学上网，[!教学](https://github.com/v2ray-links/v2ray-free/blob/master/jiaocheng.md)
