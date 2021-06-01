@@ -21,7 +21,7 @@
 
 ##### 导入节点
 
-首先复制vmess节点（[获取地址](https://github.com/freefq/free)），在v2RayN界面点击服务器，在下拉菜单中点击从剪贴板导入批量URL。
+首先复制vmess节点（[获取地址](https://github.com/v2ray-links/v2ray-free)），在v2RayN界面点击服务器，在下拉菜单中点击从剪贴板导入批量URL。
 
 ![4导入节点](https://cdn.jsdelivr.net/gh/freefq/tutorials@master/img/4.png)
 
